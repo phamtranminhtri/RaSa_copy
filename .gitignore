@@ -140,3 +140,4 @@ cython_debug/
 
 # IDEA
 .idea/
+.vscode/
